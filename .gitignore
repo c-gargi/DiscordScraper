@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+.env
+*.zip
+*.lock
+
+
+.DS_Store
+**/.DS_Store
